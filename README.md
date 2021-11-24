@@ -1,6 +1,5 @@
-Crypto currency app
+name: Crypto Currency SPA
 
-used: react 
 api: coingecko
 
-vesion: 1.0.0
+version: 0.1
