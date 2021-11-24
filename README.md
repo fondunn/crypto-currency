@@ -1,5 +1,7 @@
-name: Crypto Currency SPA
+Crypto Currency SPA
+
+used: react
 
 api: coingecko
 
-version: 0.1
+version: 1.0.0
